@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-// This is where you add the two functions
-
 float fahrenheit_to_celsius(float f){
     printf("What's the temperature in fahrenheit?: \n");
     float c = (f-32)*5.0 /9.0;
